@@ -1,0 +1,6 @@
+{
+  "name": "ResourceMatch AI",
+  "description": "AI-Powered Resource Management, Smart Matching, Priority Engine, and Natural-Language Analytics Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
